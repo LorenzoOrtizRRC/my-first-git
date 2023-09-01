@@ -1,0 +1,5 @@
+# Ignore the evidence file. We were paid to hide the evidence.
+evidence.txt
+
+# Don't allow any image evidences for our files.
+*.bmp
